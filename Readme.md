@@ -1,3 +1,5 @@
+<img width="1049" height="579" alt="image" src="https://github.com/user-attachments/assets/d31ca96f-63c0-464d-b6ad-2432859d1a9a" />
+
 🎬 AI-Manim Pipeline (OCR → Storyboard → Manim → Render)
 
 AI-Manim Pipeline은 4개의 노드를 중심으로 PDF/이미지/텍스트 입력에서 Manim 영상을 자동 생성하고, 각 단계별 결과물을 수정·확인할 수 있는 노드 기반 시각화 파이프라인입니다.
