@@ -145,3 +145,18 @@ npm run dev
 
 
 👉 이 문서는 최초 기획 README이며, 개발이 진행됨에 따라 업데이트될 예정입니다.
+
+## Sample Video
+
+The sample video `public/sample/output.mp4` is omitted from version control to keep the repository small.
+A placeholder is available in `public/sample`.
+
+To obtain the video:
+
+1. Generate your own clip with Manim, e.g.:
+   ```bash
+   manim path/to/scene.py SampleScene -o output.mp4
+   ```
+2. Or download the shared example and place it at `public/sample/output.mp4`.
+
+See `public/sample/README.md` for details.
